@@ -9,6 +9,7 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 
 ## Projects
 * [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - NOW
+* [STMG-RankingSystem](https://github.com/hyotaime/MemberRankingSystem)
 
 ## Interests
 * :cd: Operating System
