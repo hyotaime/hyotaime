@@ -5,7 +5,7 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyotaime&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dark)](https://github.com/hyotaime) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyotaime)](https://solved.ac/hyotaime) |
 
 ## Introduce
-I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and Engineering, Seoultech.](https://computer.seoultech.ac.kr/)
+I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and Engineering, Seoultech.](https://computer.seoultech.ac.kr/en/)
 
 ## Projects
 * [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - NOW
