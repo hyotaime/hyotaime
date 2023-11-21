@@ -12,9 +12,9 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 * [STMG-RankingSystem](https://github.com/hyotaime/MemberRankingSystem)
 
 ## Interests
-* :cd: Operating System
 * :books: Programming Language Theory
 * :computer: Compiler
+* :cd: Operating System
 
 ## Contact
 **📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
