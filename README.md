@@ -2,16 +2,16 @@
 
 ## Introduce
 I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and Engineering, Seoultech.](https://computer.seoultech.ac.kr/en/)
-___
+
 ## Projects
 * [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - NOW
 * [STMG-RankingSystem](https://github.com/hyotaime/MemberRankingSystem)
-___
+
 ## Interests
 * :books: Programming Language Theory
 * :computer: Compiler
 * :cd: Operating System
-___
+
 ## Contact
 **📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
 ___
