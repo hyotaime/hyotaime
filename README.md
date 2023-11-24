@@ -1,6 +1,5 @@
 # **Hyogeun Park's Github** <img src="https://github.com/hyotaime/hyotaime/assets/109580929/4503727c-b9fc-41c5-87e6-400325e81340" width="40" height="40"/>
 
-## Introduce
 I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and Engineering, Seoultech.](https://computer.seoultech.ac.kr/en/)
 
 ## Projects
