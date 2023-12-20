@@ -17,7 +17,7 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 **📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
 ___
 <details>
-  <summary><h2>Stats</h2></summary>
+  <summary><strong>Stats</strong></summary>
   <table>
     <tr>
       <th>Top Langs.</th>
