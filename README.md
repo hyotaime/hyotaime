@@ -16,7 +16,7 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 ## Contact
 **📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
 ___
-<details>
+<details open>
   <summary><h2>Stats</h2></summary>
   <table>
     <tr>
@@ -35,4 +35,5 @@ ___
         </a>
       </th>
     </tr>
+  </table>
 </details>
