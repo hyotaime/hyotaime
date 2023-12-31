@@ -4,22 +4,9 @@
 
 I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and Engineering, Seoultech.](https://computer.seoultech.ac.kr/en/)
 
-## Projects
-* [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - NOW
-* [STCom-Books](https://github.com/hyotaime/stcom-books) - NOW
-* [STMG-RankingSystem](https://github.com/hyotaime/MemberRankingSystem)
-
-## Interests
-* :books: Programming Language Theory
-* :computer: Compiler
-* :memo: Problem Solving
-* :cd: Operating System
-
-## Contact
-**📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
-___
 <details>
   <summary><strong>Stats</strong></summary>
+  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hyotaime&show_icons=true&hide_border=true&theme=dracula">
   <table>
     <tr>
       <th>Top Langs.</th>
@@ -39,3 +26,17 @@ ___
     </tr>
   </table>
 </details>
+
+## Projects
+* [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - NOW
+* [STCom-Books](https://github.com/hyotaime/stcom-books) - NOW
+* [STMG-RankingSystem](https://github.com/hyotaime/MemberRankingSystem)
+
+## Interests
+* :books: Programming Language Theory
+* :computer: Compiler
+* :memo: Problem Solving
+* :cd: Operating System
+
+## Contact
+**📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
