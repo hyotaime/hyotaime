@@ -13,10 +13,8 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/hyotaime" target="_blank">
+        <a href="https://github.com/hyotaime">
           <img src="https://bad-apple-github-readme.vercel.app/api?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" height="160em"/>
-        </a>
-        <a href="https://github.com/hyotaime" target="_blank">
           <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&hide_border=true&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dracula" alt="Top Langs" height="160em"/>
         </a>
       </th>
@@ -26,10 +24,8 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
     </tr>
     <tr>
       <th>
-        <a href="https://solved.ac/hyotaime" target="_blank">
+        <a href="https://solved.ac/hyotaime">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyotaime"height="180em"/>
-        </a>
-        <a href="https://solved.ac/hyotaime" target="_blank">
           <img src="http://mazandi.herokuapp.com/api?handle=hyotaime&theme=dark" height="180em"/>
         </a>
       </th>
