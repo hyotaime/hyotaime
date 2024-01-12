@@ -35,9 +35,9 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 
 
 ## Projects
-* [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - NOW
-* [STCom-Books](https://github.com/hyotaime/stcom-books) - NOW
-* [STMG-RankingSystem](https://github.com/hyotaime/MemberRankingSystem)
+* [STCom-Books](https://github.com/hyotaime/stcom-books) - 2023.12.15 ~ 
+* [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - 2023.07.11 ~ 
+* [STMG-Insight](https://github.com/hyotaime/stmg-insight) - 2023.05.19 ~ 
 
 ## Interests
 * :books: Programming Language Theory
