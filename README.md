@@ -41,9 +41,9 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 
 ## Interests
 * :books: Programming Language Theory
-* :computer: Compiler
+* :gear: Compiler
 * :memo: Problem Solving
-* :cd: Operating System
+* ~~:chart_with_downwards_trend: Trading~~
 
 ## Contact
 **📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
