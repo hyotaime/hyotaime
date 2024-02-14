@@ -25,7 +25,8 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
     <tr>
       <th>
         <a href="https://solved.ac/hyotaime">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyotaime"height="180em"/>
+<!--           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyotaime"height="180em"/> -->
+          <img src="https://solvedac-cards-starcea.paring.moe/profile/hyotaime?size=180"/>
           <img src="http://mazandi.herokuapp.com/api?handle=hyotaime&theme=dark" height="180em"/>
         </a>
       </th>
