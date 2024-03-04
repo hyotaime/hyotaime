@@ -35,8 +35,7 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 </details>
 
 
-## Projects 
-### In progress
+## Projects in progress
 * [STMG-Insight](https://github.com/hyotaime/stmg-insight)
 * [black-TUESDAY](https://github.com/hyotaime/black-tuesday)
 * [Wellknown-STcom](https://github.com/hyotaime/wellknown-stcom)
