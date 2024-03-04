@@ -35,11 +35,12 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 </details>
 
 
-## Projects
-* [STMG-Insight](https://github.com/hyotaime/stmg-insight) - 2023.05.19 ~ 
-* [black-TUESDAY](https://github.com/hyotaime/black-tuesday) - 2023.07.11 ~
-* [Wellknown-STcom](https://github.com/hyotaime/wellknown-stcom) - 2023.12.15 ~
-* [telegram-seoultechbot](https://github.com/hyotaime/telegram-seoultechbot) - 2024.03.01 ~
+## Projects 
+### In progress
+* [STMG-Insight](https://github.com/hyotaime/stmg-insight)
+* [black-TUESDAY](https://github.com/hyotaime/black-tuesday)
+* [Wellknown-STcom](https://github.com/hyotaime/wellknown-stcom)
+* [telegram-seoultechbot](https://github.com/hyotaime/telegram-seoultechbot)
 
 ## Interests
 * :books: Programming Language Theory
