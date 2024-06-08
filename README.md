@@ -42,12 +42,5 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 * :memo: Problem Solving
 * ~~:chart_with_downwards_trend: Trading~~
 
-## Projects in progress
-* [STMG-Insight](https://github.com/hyotaime/stmg-insight)
-* [black-TUESDAY](https://github.com/hyotaime/black-tuesday)
-* [Wellknown-STcom](https://github.com/hyotaime/wellknown-stcom)
-* [SACURA](https://github.com/hyotaime/sacura)
-* [telegram-seoultechbot](https://github.com/hyotaime/telegram-seoultechbot)
-
 ## Contact
 **📧 [hyotaime@hyotaime.com](mailto:hyotaime@hyotaime.com)**
