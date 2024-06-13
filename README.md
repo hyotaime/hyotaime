@@ -9,25 +9,10 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
   <summary><strong>Stats</strong></summary>
   <table>
     <tr>
-      <th>Github</th>
-    </tr>
-    <tr>
       <th>
         <a href="https://github.com/hyotaime">
           <img src="https://bad-apple-github-readme.vercel.app/api?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&theme=dracula&count_private=true" height="160em"/>
           <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&hide_border=true&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dracula" alt="Top Langs" height="160em"/>
-        </a>
-      </th>
-    </tr>
-    <tr>
-      <th>Solved.ac</th>
-    </tr>
-    <tr>
-      <th>
-        <a href="https://solved.ac/hyotaime">
-<!--           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyotaime"height="180em"/> -->
-          <img src="https://solvedac-cards-starcea.paring.moe/profile/hyotaime?size=180"/>
-          <img src="http://mazandi.herokuapp.com/api?handle=hyotaime&theme=dark" height="180em"/>
         </a>
       </th>
     </tr>
