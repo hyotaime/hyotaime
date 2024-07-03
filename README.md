@@ -16,6 +16,11 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
         </a>
       </th>
     </tr>
+    <tr>
+      <th>
+        <img src="https://github-profile-trophy.vercel.app/?username=hyotaime&theme=dracula&column=7&row=1"/>
+      </th>
+    </tr>
   </table>
 </details>
 
