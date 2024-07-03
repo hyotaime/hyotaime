@@ -11,14 +11,14 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
     <tr>
       <th>
         <a href="https://github.com/hyotaime">
-          <img src="https://bad-apple-github-readme.vercel.app/api?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&theme=dracula&count_private=true" height="160em"/>
-          <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&hide_border=true&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dracula" alt="Top Langs" height="160em"/>
+          <img src="https://bad-apple-github-readme.vercel.app/api?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&theme=dracula&count_private=true"/>
+          <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&hide_border=true&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dracula" alt="Top Langs" height="195em"/>
         </a>
       </th>
     </tr>
     <tr>
       <th>
-        <img src="https://github-profile-trophy.vercel.app/?username=hyotaime&theme=dracula&no-frame=true&column=7&row=1"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=hyotaime&theme=dracula&no-frame=true&row=1"/>
       </th>
     </tr>
   </table>
