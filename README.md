@@ -26,7 +26,7 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 
 
 ## Interests
-* :gear: HLS Compiler
+* :gear: Compiler Optimization
 * :computer: Automatic Program Repair
 * :books: Programming Language Theory
 * :memo: Problem Solving
