@@ -11,8 +11,8 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
     <tr>
       <th>
         <a href="https://github.com/hyotaime">
-          <img src="https://bad-apple-github-readme.vercel.app/api?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&theme=dracula&count_private=true" height="170"/>
-          <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&hide_border=true&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dracula" alt="Top Langs"/>
+          <img src="https://touhou-github-readme-stats.vercel.app/api?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&theme=dracula&count_private=true" height="170"/>
+          <img src="https://touhou-github-readme-stats.vercel.app/api/top-langs/?username=hyotaime&show_icons=true&show_bg=1&hide_border=true&hide_border=true&exclude_repo=hyotaime,hyotaime.github.io&layout=compact&theme=dracula" alt="Top Langs"/>
         </a>
       </th>
     </tr>
