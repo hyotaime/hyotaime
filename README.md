@@ -26,8 +26,8 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 
 
 ## Interests
-* :gear: Compiler Optimization
-* :computer: Automatic Program Repair
+* :computer: Empirical Software Engineering
+* :gear: Automatic Program Repair
 * :books: Programming Language Theory
 * :memo: Problem Solving
 * ~~:chart_with_downwards_trend: Trading~~
