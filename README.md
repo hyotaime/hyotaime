@@ -33,4 +33,4 @@ I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and En
 * ~~:chart_with_downwards_trend: Trading~~
 
 ## Contact
-📧 `git [at] hyotaime.com`
+📧 `hyotaime [at] hyotaime.com`
