@@ -1,9 +1,10 @@
 # **Hyotaime's GitHub**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyotaime&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyotaime)](https://solved.ac/hyotaime)
 
-I'm Hyogeun Park, undergraduate student in [the Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/en/) @ Seoul National University of Science and Technology.
+Hi, I'm Hyogeun Park,  
+Undergraduate student in [the Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/en/)  
+@ Seoul National University of Science and Technology.
 
 <details>
   <summary><strong>Stats</strong></summary>
